@@ -1,3 +1,0 @@
-# Visualization
-
-Content goes here.
