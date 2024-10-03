@@ -1,3 +1,1 @@
-# Visualization
-
-Content goes here.
+![binary search.png](/.attachments/binary%20search-f58660f4-a15b-4f1a-91e8-8da3107919fc.png)
