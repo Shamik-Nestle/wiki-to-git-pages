@@ -1,1 +1,1 @@
-![binary search.png](/.attachments/binary%20search-f58660f4-a15b-4f1a-91e8-8da3107919fc.png)
+<IMG  src="https://media.geeksforgeeks.org/wp-content/uploads/20220309171621/BinarySearch.png"  alt="What is Binary Search Algorithm? - GeeksforGeeks"/>
